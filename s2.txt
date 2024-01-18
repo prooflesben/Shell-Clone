@@ -1,0 +1,5 @@
+ls 
+echo a b 
+echo tri is cool guy > output.txt
+nl < output.txt
+echo a; echo b; echo c

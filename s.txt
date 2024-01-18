@@ -1,0 +1,6 @@
+ls | grep a
+echo a b 
+echo n a we w kd w | sort -nr | nl
+echo tri is cool guy > output.txt
+nl < output.txt
+echo a; echo b; echo c
